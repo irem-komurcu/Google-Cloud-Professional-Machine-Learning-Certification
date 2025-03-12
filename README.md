@@ -129,10 +129,8 @@ For me, the biggest benefit was **gaining a deep understanding of Google Cloud's
 🚀 **If you're preparing for this exam, focus on:**  
 - **Understanding real-world scenarios**  
 - **Learning the key differences between services**  
-- **Practicing with scenario-based questions**  
-
-🎉 **A huge thank you to my study partners,** *Sude Külek and Alperen Gazi Cesur*—preparing together made the journey even more enjoyable!  
-
+- **Practicing with scenario-based questions**
+  
 ---
 
 ## **Let's Connect!**  
@@ -143,9 +141,3 @@ If you’d like to **connect with me, follow my work, or get in touch**, visit m
 
 💬 **Your thoughts and feedback are welcome!** If you found this helpful, a few ⭐️ stars on GitHub would mean the world to me! 😊  
 
----
-
-**🔗 Irem KÖMÜRCÜ**  
-Delivering virtual training to a variety of audiences, updating course curriculum according to the latest trends.  
-
-🌍 **[iremkomurcu.com](https://iremkomurcu.com)**  
